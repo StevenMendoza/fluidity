@@ -29,7 +29,7 @@ export const links: linkGroup[] = [
 		title: "Reddit",
 		links: [
 			{
-				label: "r/startpages",
+				label: "test",
 				value: "https://www.reddit.com/r/startpages/",
 			},
 			{
